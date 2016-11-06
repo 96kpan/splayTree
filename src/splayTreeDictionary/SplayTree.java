@@ -100,7 +100,12 @@ public class SplayTree
 	{
 		//returns the node.satellite, which should return the satellite data
 		//of that key POINT.
-		return search(key).satellite;
+		try{
+			return search(key).satellite;
+		}catch(Exception e){
+			return null; //null check to prevent nullpointerexception
+		}
+		
 	}
 
 	/*
@@ -121,19 +126,19 @@ public class SplayTree
 			if(key.compareTo(ref.record) < 0){
 				ref = ref.right;
 			}
-			
+
 			//go left since key is smaller than the ref value
 			else if (key.compareTo(ref.record) > 0){
 				ref = ref.left;
 			}
-			
+
 			//finds the ref.record ==  key! Returns ref node
 			else{
 				splay(ref);
 				return ref;
 			}
 		}
-		
+
 		//can't find it, thus return null
 		return null;
 	}
@@ -164,7 +169,7 @@ public class SplayTree
 			//throughout entire process, updates the parent of ref
 			//so parent can still be accurately used
 			parentNode = ref;
-			
+
 			//compares key values for insertion
 			if(key.compareTo(parentNode.record) < 0)
 				ref = ref.right;
@@ -176,7 +181,7 @@ public class SplayTree
 		ref = new Node(key, sat);
 		//throughout entire process, updates the parent of ref
 		ref.parent = parentNode;
-		
+
 		//if parent is null, then ref is a root node
 		if(parentNode == null){
 			root = ref;
@@ -228,14 +233,14 @@ public class SplayTree
 			 */
 			//null checks
 			if(gparent != null){
-				
+
 				if(ref == parent.left){
 					if(parent == gparent.left){
 						//ZIG-ZIG -> based on comparison key values
 						leftparent(parent, gparent);
 						leftparent(ref, parent);
-						
-						
+
+
 					}
 					else{
 						//ZIG-ZAG -> based on comparison key values
@@ -257,7 +262,7 @@ public class SplayTree
 						rightRotate(ref, parent);
 					}
 				}
-				
+
 			}
 
 			/*ZIG STEP
@@ -358,8 +363,9 @@ public class SplayTree
 	 * appropriately.  Use one of the two following methods and update
 	 * this comment to document which method you actually use.
 	 *
-	 *   Method 1:  splay the bereaved parent.
-	 *   some node x will be deleted, so splay the parent of x.
+	 *   Appropriate method 2:  splay twice.
+	 *   Find the node u with the key.  Splay u, then immediately splay
+	 *   the successor of u.  Finally, remove u by splicing.
 	 *
 	 * Return the satellite data from the deleted node.
 	 */
@@ -367,51 +373,66 @@ public class SplayTree
 	{
 		//searches for the node that we want to delete
 		Node deleteNode = search(key);
-		
+
 		//calls private helper method removeNode on deleteNode
 		removeNode(deleteNode);
 		
+		try{
+			//returns the satellite data of the deleted node. 
+			return deleteNode.satellite;
+		}
+		catch(Exception e){
+			//null check for nullpointerexception errors
+			return null;
+		}
+
 		
-		
-		//returns the satellite data of the deleted node. 
-		return deleteNode.satellite;
 	}
 
 	/*
 	 * Description:
-	 * This private helper method will remove the desired node. 
+	 * This private helper method will remove the desired node. We are using Method
+	 * 2 as since we splay first to find the desired node and then according to whether
+	 * it has a left or right child, it goes from there. 
 	 */
 	private void removeNode(Node ref) {
+		
+		//null check
 		if(ref == null)
 			return;
 
 		splay(ref);
 
+		//there are both left and right children
 		if(ref.left != null && ref.right != null){
 			Node l = ref.left;
 			while(l.right != null)
 				l = l.right;
 
+			//moves the pointer
 			l.right = ref.right;
 			ref.right.parent = l;
 			ref.left.parent = null;
-			root = ref.left;
+			splay(ref.left); //splays the new root
+
 		}
 
+		//ref.left is null, thus we move the ref.right as root
 		else if(ref.right != null){
 			ref.right.parent = null;
-			root = ref.right;
+			splay(ref.right); //splays the new root
 		}
 
+		//ref.right is null, thus we move the ref.left as root
 		else if(ref.left != null){
 			ref.left.parent = null;
-			root = ref.left;
+			splay(ref.left); //splays the new root
 		}
 
+		//if both ref.left and ref.right is null, thus 
+		//it is a root node and we simply set the root as null
 		else
 			root = null;
-
-
 
 	}
 }
