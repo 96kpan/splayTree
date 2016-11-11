@@ -1,0 +1,3060 @@
+1259c1259
+< delete: orchid
+---
+> delete: chartreuse
+1603c1603
+< delete: dimgrey
+---
+> delete: darkturquoise
+1991c1991
+< delete: yellowgreen
+---
+> delete: maroon
+2118c2118
+< query: lime
+---
+> query: lightsteelblue
+2381c2381
+< query: olivedrab
+---
+> query: navajowhite
+2460c2460
+< delete: lightpink
+---
+> delete: palevioletred
+2945c2945
+< query: greenyellow
+---
+> query: darkgray
+3021c3021
+< query: sandybrown
+---
+> query: mintcream
+3110,3111c3110,3111
+< query: seagreen
+< delete: steelblue
+---
+> query: not found
+> delete: beige
+3218c3218
+< query: greenyellow
+---
+> query: darkgray
+3271c3271
+< delete: sandybrown
+---
+> delete: mintcream
+3349c3349
+< query: tan
+---
+> query: yellow
+3402c3402
+< query: mediumaquamarine
+---
+> query: yellowgreen
+3487c3487
+< delete: chocolate
+---
+> delete: darkorange
+3507c3507
+< delete: dimgray
+---
+> delete: silver
+3513c3513
+< query: red
+---
+> query: greenyellow
+3529c3529
+< query: deeppink
+---
+> query: darksalmon
+3543c3543
+< delete: plum
+---
+> delete: silver
+3552c3552
+< delete: lightblue
+---
+> delete: gold
+3561c3561
+< query: mediumaquamarine
+---
+> query: yellowgreen
+3565c3565
+< query: red
+---
+> query: greenyellow
+3617c3617
+< query: lightgray
+---
+> query: lightsteelblue
+3629c3629
+< query: deeppink
+---
+> query: darksalmon
+3889c3889
+< query: seagreen
+---
+> query: sandybrown
+3909c3909
+< query: darkslategrey
+---
+> query: coral
+4019c4019
+< delete: darkturquoise
+---
+> delete: yellow
+4083c4083
+< delete: saddlebrown
+---
+> delete: chartreuse
+4118c4118
+< query: mediumaquamarine
+---
+> query: yellowgreen
+4131c4131
+< delete: lavenderblush
+---
+> delete: sandybrown
+4150c4150
+< query: forestgreen
+---
+> query: palegoldenrod
+4249c4249
+< query: mediumaquamarine
+---
+> query: yellowgreen
+4341c4341
+< query: forestgreen
+---
+> query: palegoldenrod
+4535c4535
+< delete: wheat
+---
+> delete: lightpink
+4555c4555
+< delete: palegoldenrod
+---
+> delete: blueviolet
+4581c4581
+< query: darkgreen
+---
+> query: honeydew
+4585c4585
+< query: aquamarine
+---
+> query: snow
+4633c4633
+< query: lightcyan
+---
+> query: lime
+4807c4807
+< delete: tan
+---
+> delete: yellow
+4881c4881
+< query: lightcyan
+---
+> query: lime
+4929c4929
+< query: aquamarine
+---
+> query: snow
+4940c4940
+< delete: darkgreen
+---
+> delete: honeydew
+4969c4969
+< query: powderblue
+---
+> query: navajowhite
+4993c4993
+< query: teal
+---
+> query: olivedrab
+5020c5020
+< delete: green
+---
+> delete: not found
+5163c5163
+< delete: darkorange
+---
+> delete: gainsboro
+5265c5265
+< query: mediumturquoise
+---
+> query: cyan
+5279c5279
+< delete: cornflowerblue
+---
+> delete: lightsalmon
+5299c5299
+< delete: yellowgreen
+---
+> delete: lightgray
+5363c5363
+< delete: cornsilk
+---
+> delete: snow
+5405c5405
+< query: khaki
+---
+> query: slategrey
+5471c5471
+< delete: lime
+---
+> delete: lightyellow
+5517c5517
+< query: linen
+---
+> query: floralwhite
+5532c5532
+< delete: deeppink
+---
+> delete: not found
+5721c5721
+< query: darkblue
+---
+> query: powderblue
+5773c5773
+< query: mediumorchid
+---
+> query: rosybrown
+5857c5857
+< query: darkslategrey
+---
+> query: coral
+5875c5875
+< delete: azure
+---
+> delete: whitesmoke
+5881c5881
+< query: lawngreen
+---
+> query: mediumseagreen
+5955c5955
+< delete: lawngreen
+---
+> delete: mediumseagreen
+5969c5969
+< query: teal
+---
+> query: cadetblue
+6009c6009
+< query: teal
+---
+> query: cadetblue
+6017c6017
+< query: chartreuse
+---
+> query: darkorchid
+6059c6059
+< delete: darkorange
+---
+> delete: tomato
+6085c6085
+< query: darkorchid
+---
+> query: seashell
+6092c6092
+< delete: lightcoral
+---
+> delete: not found
+6131c6131
+< delete: mediumturquoise
+---
+> delete: cyan
+6135c6135
+< delete: floralwhite
+---
+> delete: chocolate
+6147c6147
+< delete: darkred
+---
+> delete: navajowhite
+6149c6149
+< query: mistyrose
+---
+> query: slategrey
+6153c6153
+< query: olivedrab
+---
+> query: moccasin
+6198c6198
+< query: lightcyan
+---
+> query: palegoldenrod
+6215c6215
+< delete: aquamarine
+---
+> delete: slateblue
+6237c6237
+< query: lavender
+---
+> query: mediumblue
+6269c6269
+< query: peru
+---
+> query: powderblue
+6367c6367
+< delete: yellowgreen
+---
+> delete: indianred
+6410c6410
+< query: olivedrab
+---
+> query: moccasin
+6490c6490
+< query: moccasin
+---
+> query: not found
+6538c6538
+< query: antiquewhite
+---
+> query: not found
+6541c6541
+< query: blueviolet
+---
+> query: yellow
+6623c6623
+< delete: olivedrab
+---
+> delete: moccasin
+6653c6653
+< query: teal
+---
+> query: olivedrab
+6737c6737
+< query: seagreen
+---
+> query: sandybrown
+6741c6741
+< query: mediumpurple
+---
+> query: firebrick
+6765c6765
+< query: lavender
+---
+> query: mediumblue
+6782c6782
+< query: darkred
+---
+> query: not found
+6953c6953
+< query: mediumorchid
+---
+> query: rosybrown
+6965c6965
+< query: mintcream
+---
+> query: pink
+6969c6969
+< query: snow
+---
+> query: springgreen
+6978c6978
+< query: snow
+---
+> query: not found
+7039c7039
+< delete: blanchedalmond
+---
+> delete: lightsteelblue
+7069c7069
+< query: lavender
+---
+> query: mediumblue
+7091c7091
+< delete: mintcream
+---
+> delete: pink
+7121c7121
+< query: navy
+---
+> query: royalblue
+7145c7145
+< query: snow
+---
+> query: springgreen
+7175c7175
+< delete: paleturquoise
+---
+> delete: dimgray
+7229c7229
+< query: palegoldenrod
+---
+> query: green
+7257c7257
+< query: grey
+---
+> query: mediumblue
+7370,7371c7370,7371
+< query: lime
+< delete: lightcyan
+---
+> query: not found
+> delete: palegoldenrod
+7415c7415
+< delete: mediumpurple
+---
+> delete: mintcream
+7417c7417
+< query: linen
+---
+> query: floralwhite
+7613c7613
+< query: gray
+---
+> query: honeydew
+7647c7647
+< delete: teal
+---
+> delete: cadetblue
+7718c7718
+< query: whitesmoke
+---
+> query: darkorange
+7807c7807
+< delete: peru
+---
+> delete: powderblue
+7859c7859
+< delete: yellowgreen
+---
+> delete: purple
+7863c7863
+< delete: grey
+---
+> delete: mediumblue
+7867c7867
+< delete: forestgreen
+---
+> delete: maroon
+7891c7891
+< delete: darkgray
+---
+> delete: navy
+7907c7907
+< delete: turquoise
+---
+> delete: darkred
+7977c7977
+< query: oldlace
+---
+> query: dodgerblue
+8009c8009
+< query: dimgray
+---
+> query: lightpink
+8031c8031
+< delete: olive
+---
+> delete: darkred
+8057c8057
+< query: crimson
+---
+> query: darkturquoise
+8087c8087
+< delete: antiquewhite
+---
+> delete: peachpuff
+8140c8140
+< delete: mediumpurple
+---
+> delete: not found
+8180c8180
+< delete: lightslategray
+---
+> delete: cadetblue
+8229c8229
+< query: yellowgreen
+---
+> query: lightsteelblue
+8240c8240
+< delete: lavender
+---
+> delete: black
+8262,8263c8262,8263
+< query: oldlace
+< delete: palegreen
+---
+> query: powderblue
+> delete: lightskyblue
+8295c8295
+< delete: teal
+---
+> delete: mediumorchid
+8309c8309
+< query: lightgreen
+---
+> query: yellowgreen
+8337c8337
+< query: salmon
+---
+> query: dimgray
+8341c8341
+< query: slategrey
+---
+> query: seashell
+8407c8407
+< delete: maroon
+---
+> delete: orange
+8432c8432
+< delete: palegoldenrod
+---
+> delete: not found
+8463c8463
+< delete: darkgrey
+---
+> delete: navy
+8487c8487
+< delete: orangered
+---
+> delete: sandybrown
+8503c8503
+< delete: darkmagenta
+---
+> delete: green
+8511c8511
+< delete: azure
+---
+> delete: gray
+8539c8539
+< delete: salmon
+---
+> delete: dimgray
+8550c8550
+< query: lightgreen
+---
+> query: cornsilk
+8598c8598
+< query: lavenderblush
+---
+> query: not found
+8614c8614
+< query: mediumturquoise
+---
+> query: not found
+8703c8703
+< delete: sienna
+---
+> delete: peru
+8751c8751
+< delete: darkseagreen
+---
+> delete: limegreen
+8763c8763
+< delete: olivedrab
+---
+> delete: deepskyblue
+8768c8768
+< delete: olivedrab
+---
+> delete: navajowhite
+8803c8803
+< delete: lemonchiffon
+---
+> delete: lightslategrey
+8838c8838
+< query: lightgreen
+---
+> query: cornsilk
+8857c8857
+< query: darksalmon
+---
+> query: plum
+8883c8883
+< delete: lightgray
+---
+> delete: bisque
+8901c8901
+< query: lightpink
+---
+> query: olivedrab
+8953c8953
+< query: darkgreen
+---
+> query: darkolivegreen
+8961c8961
+< query: powderblue
+---
+> query: azure
+9001c9001
+< query: sandybrown
+---
+> query: mintcream
+9083c9083
+< delete: mediumaquamarine
+---
+> delete: rosybrown
+9085c9085
+< query: yellowgreen
+---
+> query: lightsteelblue
+9102c9102
+< query: thistle
+---
+> query: mediumvioletred
+9129c9129
+< query: steelblue
+---
+> query: darkolivegreen
+9133c9133
+< query: khaki
+---
+> query: seashell
+9170c9170
+< query: navy
+---
+> query: not found
+9180c9180
+< delete: greenyellow
+---
+> delete: not found
+9225c9225
+< query: chartreuse
+---
+> query: darkred
+9259c9259
+< delete: salmon
+---
+> delete: olivedrab
+9279c9279
+< delete: linen
+---
+> delete: floralwhite
+9288c9288
+< delete: skyblue
+---
+> delete: green
+9304c9304
+< delete: darkturquoise
+---
+> delete: not found
+9328c9328
+< delete: mediumpurple
+---
+> delete: red
+9338c9338
+< query: lightyellow
+---
+> query: not found
+9353c9353
+< query: mediumpurple
+---
+> query: yellowgreen
+9391c9391
+< delete: thistle
+---
+> delete: mediumvioletred
+9401c9401
+< query: lightcoral
+---
+> query: skyblue
+9430c9430
+< query: honeydew
+---
+> query: not found
+9467c9467
+< delete: lightpink
+---
+> delete: olivedrab
+9482c9482
+< query: wheat
+---
+> query: linen
+9487c9487
+< delete: maroon
+---
+> delete: gold
+9517c9517
+< query: goldenrod
+---
+> query: salmon
+9520c9520
+< delete: gold
+---
+> delete: not found
+9546c9546
+< query: darkslategrey
+---
+> query: coral
+9595c9595
+< delete: darkmagenta
+---
+> delete: hotpink
+9623c9623
+< delete: springgreen
+---
+> delete: darkgreen
+9632c9632
+< delete: darkviolet
+---
+> delete: yellowgreen
+9648c9648
+< delete: lightgoldenrodyellow
+---
+> delete: wheat
+9653c9653
+< query: dimgray
+---
+> query: cornflowerblue
+9715c9715
+< delete: wheat
+---
+> delete: navajowhite
+9737c9737
+< query: palevioletred
+---
+> query: peru
+9769c9769
+< query: darkgray
+---
+> query: firebrick
+9787c9787
+< delete: oldlace
+---
+> delete: darkkhaki
+9806c9806
+< query: slategrey
+---
+> query: seashell
+9815c9815
+< delete: steelblue
+---
+> delete: darkolivegreen
+9825c9825
+< query: palegoldenrod
+---
+> query: powderblue
+9851c9851
+< delete: sandybrown
+---
+> delete: mintcream
+9907c9907
+< delete: darkkhaki
+---
+> delete: beige
+9912c9912
+< delete: darksalmon
+---
+> delete: not found
+9943c9943
+< delete: yellowgreen
+---
+> delete: springgreen
+9949c9949
+< query: gray
+---
+> query: honeydew
+9983c9983
+< delete: darksalmon
+---
+> delete: plum
+10027c10027
+< delete: darkslategray
+---
+> delete: magenta
+10064c10064
+< delete: mistyrose
+---
+> delete: slategrey
+10075,10076c10075,10076
+< delete: plum
+< delete: pink
+---
+> delete: lavenderblush
+> delete: not found
+10106c10106
+< query: antiquewhite
+---
+> query: not found
+10130c10130
+< query: seashell
+---
+> query: not found
+10209c10209
+< query: lightgreen
+---
+> query: cornsilk
+10254c10254
+< query: cadetblue
+---
+> query: blue
+10311c10311
+< delete: lightsteelblue
+---
+> delete: rosybrown
+10324c10324
+< delete: lavenderblush
+---
+> delete: not found
+10372c10372
+< delete: antiquewhite
+---
+> delete: not found
+10393c10393
+< query: maroon
+---
+> query: paleturquoise
+10407c10407
+< delete: lightcoral
+---
+> delete: skyblue
+10421c10421
+< query: lightgrey
+---
+> query: lightskyblue
+10425c10425
+< query: deeppink
+---
+> query: darksalmon
+10456c10456
+< delete: darkslategray
+---
+> delete: sienna
+10461c10461
+< query: lightcyan
+---
+> query: firebrick
+10467,10468c10467,10468
+< delete: wheat
+< delete: papayawhip
+---
+> delete: palevioletred
+> delete: not found
+10485c10485
+< query: yellowgreen
+---
+> query: lightsteelblue
+10498c10498
+< query: lime
+---
+> query: not found
+10561c10561
+< query: lavender
+---
+> query: dimgray
+10577c10577
+< query: teal
+---
+> query: lime
+10629c10629
+< query: fuchsia
+---
+> query: bisque
+10648c10648
+< delete: mintcream
+---
+> delete: not found
+10662c10662
+< query: brown
+---
+> query: not found
+10666c10666
+< query: ivory
+---
+> query: not found
+10746c10746
+< query: saddlebrown
+---
+> query: not found
+10749c10749
+< query: lawngreen
+---
+> query: purple
+10835c10835
+< delete: powderblue
+---
+> delete: azure
+10847c10847
+< delete: darkgrey
+---
+> delete: lightgoldenrodyellow
+10849c10849
+< query: mediumaquamarine
+---
+> query: turquoise
+10872c10872
+< delete: limegreen
+---
+> delete: not found
+10898c10898
+< query: darkred
+---
+> query: not found
+10903c10903
+< delete: lightgray
+---
+> delete: lightsteelblue
+10925c10925
+< query: orange
+---
+> query: rosybrown
+10931c10931
+< delete: darkkhaki
+---
+> delete: sandybrown
+10953c10953
+< query: blanchedalmond
+---
+> query: peachpuff
+10975c10975
+< delete: mediumpurple
+---
+> delete: yellowgreen
+10982c10982
+< query: mediumblue
+---
+> query: not found
+11002,11003c11002,11003
+< query: wheat
+< delete: lightskyblue
+---
+> query: linen
+> delete: lightseagreen
+11055c11055
+< delete: cornsilk
+---
+> delete: maroon
+11059c11059
+< delete: goldenrod
+---
+> delete: bisque
+11075c11075
+< delete: green
+---
+> delete: darkkhaki
+11079c11079
+< delete: lightcoral
+---
+> delete: thistle
+11155c11155
+< delete: darkkhaki
+---
+> delete: blue
+11171c11171
+< delete: orangered
+---
+> delete: purple
+11181c11181
+< query: maroon
+---
+> query: black
+11197,11198c11197,11198
+< query: chartreuse
+< query: brown
+---
+> query: darkred
+> query: not found
+11213c11213
+< query: rosybrown
+---
+> query: lightcoral
+11221,11222c11221,11222
+< query: peachpuff
+< query: midnightblue
+---
+> query: orangered
+> query: not found
+11237c11237
+< query: peachpuff
+---
+> query: steelblue
+11262c11262
+< query: green
+---
+> query: not found
+11267c11267
+< delete: blueviolet
+---
+> delete: yellow
+11278c11278
+< query: palevioletred
+---
+> query: papayawhip
+11287c11287
+< delete: magenta
+---
+> delete: black
+11304c11304
+< delete: palevioletred
+---
+> delete: peru
+11313c11313
+< query: ivory
+---
+> query: slateblue
+11325c11325
+< query: wheat
+---
+> query: azure
+11419c11419
+< delete: peachpuff
+---
+> delete: orangered
+11456c11456
+< delete: darkcyan
+---
+> delete: not found
+11460c11460
+< delete: mediumaquamarine
+---
+> delete: turquoise
+11491c11491
+< delete: blanchedalmond
+---
+> delete: lime
+11516c11516
+< delete: peachpuff
+---
+> delete: steelblue
+11527c11527
+< delete: wheat
+---
+> delete: azure
+11568c11568
+< delete: lime
+---
+> delete: not found
+11589c11589
+< query: darkviolet
+---
+> query: navy
+11617c11617
+< query: dodgerblue
+---
+> query: forestgreen
+11619c11619
+< delete: darkorchid
+---
+> delete: darkviolet
+11674c11674
+< query: blue
+---
+> query: chartreuse
+11755c11755
+< delete: orchid
+---
+> delete: blanchedalmond
+11828c11828
+< delete: red
+---
+> delete: not found
+11852c11852
+< delete: lightgray
+---
+> delete: not found
+11863c11863
+< delete: aliceblue
+---
+> delete: darkslateblue
+11880c11880
+< delete: lightskyblue
+---
+> delete: not found
+11889c11889
+< query: moccasin
+---
+> query: aquamarine
+11897c11897
+< query: lavender
+---
+> query: dimgray
+11906c11906
+< query: beige
+---
+> query: not found
+11920,11921c11920,11921
+< delete: olivedrab
+< query: mediumseagreen
+---
+> delete: not found
+> query: beige
+11937c11937
+< query: lightcyan
+---
+> query: firebrick
+12040c12040
+< delete: silver
+---
+> delete: not found
+12139c12139
+< delete: sienna
+---
+> delete: papayawhip
+12147c12147
+< delete: darkslategray
+---
+> delete: peachpuff
+12152c12152
+< delete: limegreen
+---
+> delete: not found
+12161c12161
+< query: peru
+---
+> query: greenyellow
+12175c12175
+< delete: ivory
+---
+> delete: slateblue
+12183c12183
+< delete: rosybrown
+---
+> delete: lightsteelblue
+12228c12228
+< delete: whitesmoke
+---
+> delete: aquamarine
+12237c12237
+< query: navy
+---
+> query: olive
+12242c12242
+< query: lightgoldenrodyellow
+---
+> query: not found
+12253c12253
+< query: purple
+---
+> query: burlywood
+12294c12294
+< query: red
+---
+> query: not found
+12309c12309
+< query: cadetblue
+---
+> query: blue
+12348c12348
+< delete: mediumblue
+---
+> delete: not found
+12354c12354
+< query: yellowgreen
+---
+> query: not found
+12386c12386
+< query: black
+---
+> query: not found
+12390c12390
+< query: oldlace
+---
+> query: not found
+12393c12393
+< query: tomato
+---
+> query: lawngreen
+12413c12413
+< query: palegoldenrod
+---
+> query: darkslategray
+12420c12420
+< delete: mediumblue
+---
+> delete: whitesmoke
+12441c12441
+< query: chartreuse
+---
+> query: darkred
+12463c12463
+< delete: paleturquoise
+---
+> delete: plum
+12469c12469
+< query: white
+---
+> query: sienna
+12474c12474
+< query: tomato
+---
+> query: not found
+12504c12504
+< delete: mistyrose
+---
+> delete: not found
+12512c12512
+< delete: palegoldenrod
+---
+> delete: darkslategray
+12522c12522
+< query: skyblue
+---
+> query: whitesmoke
+12545,12546c12545,12546
+< query: dimgrey
+< query: rosybrown
+---
+> query: peru
+> query: not found
+12564c12564
+< delete: brown
+---
+> delete: not found
+12574c12574
+< query: darkgreen
+---
+> query: darkolivegreen
+12591c12591
+< delete: slategrey
+---
+> delete: seashell
+12607,12608c12607,12608
+< delete: darkgreen
+< delete: orchid
+---
+> delete: darkolivegreen
+> delete: not found
+12663c12663
+< delete: tomato
+---
+> delete: lawngreen
+12681c12681
+< query: gold
+---
+> query: sandybrown
+12687c12687
+< delete: darkturquoise
+---
+> delete: seashell
+12689c12689
+< query: black
+---
+> query: rosybrown
+12734c12734
+< query: darkslategray
+---
+> query: not found
+12761c12761
+< query: salmon
+---
+> query: lightpink
+12791c12791
+< delete: lightgoldenrodyellow
+---
+> delete: gold
+12845c12845
+< query: khaki
+---
+> query: darkgrey
+12884c12884
+< delete: forestgreen
+---
+> delete: aliceblue
+12906c12906
+< query: palevioletred
+---
+> query: papayawhip
+12915c12915
+< delete: mediumblue
+---
+> delete: navajowhite
+12937c12937
+< query: blue
+---
+> query: seagreen
+12943c12943
+< delete: coral
+---
+> delete: goldenrod
+12967c12967
+< delete: darkgoldenrod
+---
+> delete: lightcyan
+12989c12989
+< query: darkslategrey
+---
+> query: coral
+12996c12996
+< delete: darkgreen
+---
+> delete: not found
+13015c13015
+< delete: cyan
+---
+> delete: lightslategray
+13080c13080
+< delete: darkcyan
+---
+> delete: not found
+13090c13090
+< query: coral
+---
+> query: not found
+13119c13119
+< delete: forestgreen
+---
+> delete: mediumseagreen
+13156c13156
+< delete: moccasin
+---
+> delete: not found
+13175c13175
+< delete: darkmagenta
+---
+> delete: darkcyan
+13185c13185
+< query: lightgreen
+---
+> query: steelblue
+13215c13215
+< delete: darkmagenta
+---
+> delete: palevioletred
+13224c13224
+< delete: pink
+---
+> delete: not found
+13235c13235
+< delete: beige
+---
+> delete: tomato
+13251c13251
+< delete: maroon
+---
+> delete: paleturquoise
+13266,13267c13266,13267
+< query: skyblue
+< delete: darkgoldenrod
+---
+> query: not found
+> delete: darkmagenta
+13294c13294
+< query: khaki
+---
+> query: not found
+13304c13304
+< delete: mistyrose
+---
+> delete: cornsilk
+13306c13306
+< query: snow
+---
+> query: not found
+13311c13311
+< delete: yellow
+---
+> delete: powderblue
+13315c13315
+< delete: peru
+---
+> delete: greenyellow
+13374c13374
+< query: blue
+---
+> query: chartreuse
+13377c13377
+< query: lightgreen
+---
+> query: steelblue
+13397c13397
+< query: deeppink
+---
+> query: darksalmon
+13399c13399
+< delete: lime
+---
+> delete: aqua
+13402c13402
+< query: oldlace
+---
+> query: not found
+13429c13429
+< query: teal
+---
+> query: lime
+13464c13464
+< delete: black
+---
+> delete: not found
+13518c13518
+< query: olivedrab
+---
+> query: not found
+13523c13523
+< delete: mistyrose
+---
+> delete: azure
+13560c13560
+< delete: darkolivegreen
+---
+> delete: rosybrown
+13588c13588
+< delete: seagreen
+---
+> delete: not found
+13609c13609
+< query: orange
+---
+> query: blueviolet
+13620c13620
+< delete: mediumseagreen
+---
+> delete: not found
+13623c13623
+< delete: dimgrey
+---
+> delete: peru
+13642,13643c13642,13643
+< query: white
+< delete: oldlace
+---
+> query: not found
+> delete: dodgerblue
+13677c13677
+< query: darkorchid
+---
+> query: seashell
+13696c13696
+< delete: lightseagreen
+---
+> delete: not found
+13733c13733
+< query: midnightblue
+---
+> query: blanchedalmond
+13798,13799c13798,13799
+< query: palegoldenrod
+< delete: teal
+---
+> query: olive
+> delete: lime
+13806c13806
+< query: lavenderblush
+---
+> query: not found
+13813c13813
+< query: maroon
+---
+> query: snow
+13816c13816
+< delete: steelblue
+---
+> delete: not found
+13826c13826
+< query: tan
+---
+> query: hotpink
+13873c13873
+< query: chartreuse
+---
+> query: green
+13883c13883
+< delete: hotpink
+---
+> delete: green
+13910c13910
+< query: mediumorchid
+---
+> query: lightgray
+13913c13913
+< query: peachpuff
+---
+> query: beige
+13967c13967
+< delete: mediumseagreen
+---
+> delete: beige
+13991c13991
+< delete: khaki
+---
+> delete: darkgrey
+14000c14000
+< delete: lightgray
+---
+> delete: ghostwhite
+14046,14047c14046,14047
+< query: gray
+< delete: olivedrab
+---
+> query: darkgray
+> delete: green
+14079c14079
+< delete: deeppink
+---
+> delete: red
+14112c14112
+< delete: saddlebrown
+---
+> delete: lightcoral
+14149c14149
+< query: mediumblue
+---
+> query: lightsalmon
+14156c14156
+< delete: grey
+---
+> delete: not found
+14166c14166
+< query: darkslategrey
+---
+> query: coral
+14179c14179
+< delete: lightgray
+---
+> delete: sandybrown
+14189c14189
+< query: tan
+---
+> query: tomato
+14200c14200
+< delete: ghostwhite
+---
+> delete: not found
+14205c14205
+< query: darkturquoise
+---
+> query: dodgerblue
+14265c14265
+< query: salmon
+---
+> query: lightpink
+14283c14283
+< delete: moccasin
+---
+> delete: aquamarine
+14329c14329
+< query: salmon
+---
+> query: gold
+14347c14347
+< delete: yellow
+---
+> delete: red
+14350c14350
+< query: palegreen
+---
+> query: mediumaquamarine
+14391c14391
+< delete: paleturquoise
+---
+> delete: purple
+14404c14404
+< delete: silver
+---
+> delete: not found
+14427,14428c14427,14428
+< delete: darkturquoise
+< delete: whitesmoke
+---
+> delete: dodgerblue
+> delete: not found
+14440c14440
+< delete: lime
+---
+> delete: deeppink
+14452c14452
+< delete: lightgrey
+---
+> delete: not found
+14459c14459
+< delete: purple
+---
+> delete: darkorange
+14468c14468
+< delete: floralwhite
+---
+> delete: midnightblue
+14485c14485
+< query: paleturquoise
+---
+> query: lightslategray
+14504,14505c14504,14505
+< delete: rosybrown
+< query: darkred
+---
+> delete: lightcoral
+> query: aliceblue
+14550c14550
+< query: brown
+---
+> query: not found
+14566c14566
+< query: slategrey
+---
+> query: not found
+14574c14574
+< query: maroon
+---
+> query: black
+14650,14651c14650,14651
+< query: khaki
+< delete: orange
+---
+> query: ghostwhite
+> delete: rosybrown
+14673c14673
+< query: skyblue
+---
+> query: whitesmoke
+14675c14675
+< delete: olivedrab
+---
+> delete: dimgray
+14685c14685
+< query: mediumorchid
+---
+> query: lightgray
+14687c14687
+< delete: darkgrey
+---
+> delete: blue
+14703c14703
+< delete: paleturquoise
+---
+> delete: lightslategray
+14737c14737
+< query: teal
+---
+> query: darkviolet
+14742c14742
+< query: darkgray
+---
+> query: indianred
+14771c14771
+< delete: royalblue
+---
+> delete: lightslategrey
+14777c14777
+< query: linen
+---
+> query: lightseagreen
+14781,14782c14781,14782
+< query: violet
+< query: dodgerblue
+---
+> query: paleturquoise
+> query: not found
+14788c14788
+< delete: palegreen
+---
+> delete: mediumaquamarine
+14792c14792
+< delete: limegreen
+---
+> delete: darkslategrey
+14801c14801
+< query: navy
+---
+> query: greenyellow
+14805c14805
+< query: deeppink
+---
+> query: steelblue
+14810c14810
+< query: brown
+---
+> query: not found
+14816c14816
+< delete: cornsilk
+---
+> delete: not found
+14822c14822
+< query: darkorchid
+---
+> query: seashell
+14843c14843
+< delete: lightcyan
+---
+> delete: firebrick
+14847,14848c14847,14848
+< delete: seagreen
+< delete: orange
+---
+> delete: tomato
+> delete: cyan
+14861c14861
+< query: snow
+---
+> query: springgreen
+14865c14865
+< query: mediumvioletred
+---
+> query: dimgrey
+14881c14881
+< query: palegoldenrod
+---
+> query: olive
+14892c14892
+< delete: purple
+---
+> delete: burlywood
+14915c14915
+< delete: mintcream
+---
+> delete: chartreuse
+14933c14933
+< query: springgreen
+---
+> query: oldlace
+14947c14947
+< delete: snow
+---
+> delete: springgreen
+14969c14969
+< query: grey
+---
+> query: royalblue
+14984c14984
+< delete: darkblue
+---
+> delete: peachpuff
+14995c14995
+< delete: salmon
+---
+> delete: lightpink
+15005c15005
+< query: oldlace
+---
+> query: lightskyblue
+15022c15022
+< query: blanchedalmond
+---
+> query: not found
+15047c15047
+< delete: darkslategrey
+---
+> delete: lightgrey
+15051c15051
+< delete: goldenrod
+---
+> delete: seagreen
+15060c15060
+< delete: beige
+---
+> delete: not found
+15101c15101
+< query: cadetblue
+---
+> query: lightslategrey
+15113c15113
+< query: lightcoral
+---
+> query: slategrey
+15115c15115
+< delete: whitesmoke
+---
+> delete: salmon
+15151c15151
+< delete: tan
+---
+> delete: floralwhite
+15165c15165
+< query: aqua
+---
+> query: mediumseagreen
+15248c15248
+< delete: darkturquoise
+---
+> delete: not found
+15256c15256
+< delete: antiquewhite
+---
+> delete: not found
+15258c15258
+< query: springgreen
+---
+> query: oldlace
+15283c15283
+< delete: lightgrey
+---
+> delete: magenta
+15319c15319
+< delete: chocolate
+---
+> delete: turquoise
+15353c15353
+< query: maroon
+---
+> query: white
+15382c15382
+< query: blanchedalmond
+---
+> query: peachpuff
+15384c15384
+< delete: lemonchiffon
+---
+> delete: not found
+15393c15393
+< query: cadetblue
+---
+> query: mediumorchid
+15411c15411
+< delete: darkgoldenrod
+---
+> delete: steelblue
+15429c15429
+< query: turquoise
+---
+> query: saddlebrown
+15438c15438
+< query: seashell
+---
+> query: not found
+15447c15447
+< delete: darkorchid
+---
+> delete: seashell
+15449c15449
+< query: linen
+---
+> query: lightseagreen
+15451c15451
+< delete: green
+---
+> delete: cornflowerblue
+15453c15453
+< query: darkgrey
+---
+> query: bisque
+15471,15472c15471,15472
+< delete: darkgrey
+< delete: seashell
+---
+> delete: mediumaquamarine
+> delete: not found
+15504c15504
+< delete: gold
+---
+> delete: not found
+15506c15506
+< query: slategray
+---
+> query: not found
+15516c15516
+< delete: mistyrose
+---
+> delete: not found
+15531c15531
+< delete: lightcoral
+---
+> delete: turquoise
+15559c15559
+< delete: darkslategrey
+---
+> delete: orange
+15619c15619
+< delete: goldenrod
+---
+> delete: teal
+15670c15670
+< query: blanchedalmond
+---
+> query: peachpuff
+15672c15672
+< delete: dodgerblue
+---
+> delete: forestgreen
+15703c15703
+< delete: turquoise
+---
+> delete: mediumturquoise
+15714c15714
+< query: thistle
+---
+> query: limegreen
+15746c15746
+< query: springgreen
+---
+> query: not found
+15753c15753
+< query: floralwhite
+---
+> query: lightcyan
+15759c15759
+< delete: lightgoldenrodyellow
+---
+> delete: black
+15773c15773
+< query: navajowhite
+---
+> query: teal
+15838c15838
+< query: thistle
+---
+> query: not found
+15842c15842
+< query: darkturquoise
+---
+> query: not found
+15847,15848c15847,15848
+< delete: mediumspringgreen
+< delete: blue
+---
+> delete: moccasin
+> delete: darkgray
+15883c15883
+< delete: mediumorchid
+---
+> delete: lightgray
+15907c15907
+< delete: palegoldenrod
+---
+> delete: dodgerblue
+15912c15912
+< delete: darkseagreen
+---
+> delete: not found
+15916c15916
+< delete: lavenderblush
+---
+> delete: not found
+15921c15921
+< query: mediumpurple
+---
+> query: firebrick
+15929c15929
+< query: maroon
+---
+> query: skyblue
+15959c15959
+< delete: peachpuff
+---
+> delete: beige
+15965c15965
+< query: chartreuse
+---
+> query: darkred
+16029c16029
+< query: darkturquoise
+---
+> query: darkorchid
+16033c16033
+< query: oldlace
+---
+> query: powderblue
+16059c16059
+< delete: sienna
+---
+> delete: greenyellow
+16066c16066
+< query: lightpink
+---
+> query: not found
+16074c16074
+< query: lightgrey
+---
+> query: salmon
+16099c16099
+< delete: turquoise
+---
+> delete: rosybrown
+16119c16119
+< delete: maroon
+---
+> delete: skyblue
+16124,16125c16124,16125
+< delete: lightgreen
+< query: mintcream
+---
+> delete: azure
+> query: brown
+16135c16135
+< delete: navy
+---
+> delete: olive
+16143c16143
+< delete: darkgray
+---
+> delete: indianred
+16145c16145
+< query: cadetblue
+---
+> query: mediumorchid
+16164c16164
+< delete: rosybrown
+---
+> delete: not found
+16174,16175c16174,16175
+< query: purple
+< delete: cyan
+---
+> query: not found
+> delete: cadetblue
+16179c16179
+< delete: lightpink
+---
+> delete: dimgrey
+16192c16192
+< delete: mediumaquamarine
+---
+> delete: seagreen
+16198c16198
+< query: lemonchiffon
+---
+> query: not found
+16269c16269
+< query: mediumblue
+---
+> query: lightsalmon
+16277,16278c16277,16278
+< query: darkgoldenrod
+< query: dimgrey
+---
+> query: lightpink
+> query: not found
+16290c16290
+< query: forestgreen
+---
+> query: not found
+16294c16294
+< query: lavenderblush
+---
+> query: not found
+16309c16309
+< query: coral
+---
+> query: lightyellow
+16311c16311
+< delete: limegreen
+---
+> delete: blueviolet
+16343c16343
+< delete: tan
+---
+> delete: tomato
+16373c16373
+< query: oldlace
+---
+> query: lightskyblue
+16391c16391
+< delete: cadetblue
+---
+> delete: yellowgreen
+16428c16428
+< delete: red
+---
+> delete: darkslategrey
+16442c16442
+< query: azure
+---
+> query: not found
+16461c16461
+< query: darkgreen
+---
+> query: aquamarine
+16486c16486
+< query: mediumblue
+---
+> query: not found
+16537c16537
+< query: powderblue
+---
+> query: darkorchid
+16545c16545
+< query: darkgreen
+---
+> query: dimgray
+16564c16564
+< delete: darkorange
+---
+> delete: not found
+16577c16577
+< query: burlywood
+---
+> query: darkorange
+16586c16586
+< query: silver
+---
+> query: mediumblue
+16588c16588
+< delete: gray
+---
+> delete: darkgray
+16591c16591
+< delete: magenta
+---
+> delete: darkolivegreen
+16593c16593
+< query: oldlace
+---
+> query: deeppink
+16602c16602
+< query: plum
+---
+> query: lightgrey
+16605c16605
+< query: white
+---
+> query: sienna
+16625c16625
+< query: lightskyblue
+---
+> query: lightgoldenrodyellow
+16641c16641
+< query: violet
+---
+> query: paleturquoise
+16668c16668
+< delete: dodgerblue
+---
+> delete: not found
+16696c16696
+< delete: darkred
+---
+> delete: not found
+16728c16728
+< delete: mediumseagreen
+---
+> delete: not found
+16734c16734
+< query: papayawhip
+---
+> query: not found
+16748c16748
+< delete: moccasin
+---
+> delete: not found
+16762c16762
+< query: peachpuff
+---
+> query: not found
+16786c16786
+< query: mediumvioletred
+---
+> query: dimgrey
+16827c16827
+< delete: antiquewhite
+---
+> delete: dimgray
+16837c16837
+< query: navajowhite
+---
+> query: teal
+16845c16845
+< query: cornflowerblue
+---
+> query: black
+16849c16849
+< query: mediumturquoise
+---
+> query: lightcyan
+16861c16861
+< query: linen
+---
+> query: antiquewhite
+16868c16868
+< delete: burlywood
+---
+> delete: not found
+16909c16909
+< query: springgreen
+---
+> query: aliceblue
+16920,16921c16920,16921
+< delete: darkorange
+< query: cadetblue
+---
+> delete: not found
+> query: blue
+16924c16924
+< delete: seashell
+---
+> delete: not found
+16931c16931
+< delete: darkslategrey
+---
+> delete: indigo
+16969c16969
+< query: yellowgreen
+---
+> query: darkorchid
+16972c16972
+< delete: tomato
+---
+> delete: indianred
+16986c16986
+< query: darkgray
+---
+> query: not found
+16990c16990
+< query: darkolivegreen
+---
+> query: not found
+17017c17017
+< query: silver
+---
+> query: darksalmon
+17048c17048
+< delete: springgreen
+---
+> delete: brown
+17058c17058
+< query: lawngreen
+---
+> query: purple
+17061c17061
+< query: darkslategrey
+---
+> query: coral
+17066c17066
+< query: palegreen
+---
+> query: deepskyblue
+17072c17072
+< delete: chartreuse
+---
+> delete: sienna
+17074c17074
+< query: darkslategray
+---
+> query: darkred
+17088c17088
+< delete: navajowhite
+---
+> delete: not found
+17094c17094
+< query: darkorange
+---
+> query: darkslateblue
+17113,17114c17113,17114
+< query: silver
+< query: palegoldenrod
+---
+> query: mediumslateblue
+> query: not found
+17117c17117
+< query: springgreen
+---
+> query: oldlace
+17123c17123
+< delete: lightsteelblue
+---
+> delete: thistle
+17133,17134c17133,17134
+< query: linen
+< query: lightsteelblue
+---
+> query: lightseagreen
+> query: not found
+17194,17195c17194,17195
+< query: silver
+< delete: deepskyblue
+---
+> query: not found
+> delete: green
+17228c17228
+< delete: mediumvioletred
+---
+> delete: blueviolet
+17238,17239c17238,17239
+< query: navy
+< delete: floralwhite
+---
+> query: not found
+> delete: peachpuff
+17245c17245
+< query: orange
+---
+> query: blueviolet
+17274c17274
+< query: limegreen
+---
+> query: not found
+17278c17278
+< query: plum
+---
+> query: lightsteelblue
+17287c17287
+< delete: black
+---
+> delete: rosybrown
+17290,17291c17290,17291
+< query: navy
+< delete: aquamarine
+---
+> query: not found
+> delete: mediumblue
+17295c17295
+< delete: fuchsia
+---
+> delete: hotpink
+17300c17300
+< delete: blueviolet
+---
+> delete: not found
+17304c17304
+< delete: lemonchiffon
+---
+> delete: not found
+17311c17311
+< delete: lightgoldenrodyellow
+---
+> delete: forestgreen
+17325c17325
+< query: silver
+---
+> query: darksalmon
+17340,17341c17340,17341
+< delete: hotpink
+< query: cornflowerblue
+---
+> delete: not found
+> query: wheat
+17353,17355c17353,17355
+< query: powderblue
+< query: rosybrown
+< delete: mediumslateblue
+---
+> query: darkorchid
+> query: not found
+> delete: palegoldenrod
+17367c17367
+< delete: oldlace
+---
+> delete: hotpink
+17372c17372
+< delete: lightyellow
+---
+> delete: not found
+17377,17378c17377,17378
+< query: gray
+< query: gainsboro
+---
+> query: navy
+> query: not found
+17418c17418
+< query: darkgreen
+---
+> query: not found
+17441c17441
+< query: oldlace
+---
+> query: lightskyblue
+17485c17485
+< query: salmon
+---
+> query: springgreen
+17496c17496
+< delete: teal
+---
+> delete: darkviolet
+17523c17523
+< delete: seagreen
+---
+> delete: turquoise
+17527c17527
+< delete: lavenderblush
+---
+> delete: red
+17546,17547c17546,17547
+< query: royalblue
+< delete: blanchedalmond
+---
+> query: cornsilk
+> delete: peachpuff
+17555,17556c17555,17556
+< delete: palegreen
+< delete: silver
+---
+> delete: whitesmoke
+> delete: not found
+17562,17563c17562,17563
+< query: mediumslateblue
+< delete: navajowhite
+---
+> query: not found
+> delete: moccasin
+17586c17586
+< query: royalblue
+---
+> query: cornsilk
+17588c17588
+< delete: tan
+---
+> delete: not found
+17610c17610
+< query: yellowgreen
+---
+> query: not found
+17637c17637
+< query: palevioletred
+---
+> query: cyan
+17663c17663
+< delete: plum
+---
+> delete: lightgrey
+17668c17668
+< delete: lightgrey
+---
+> delete: snow
+17670c17670
+< query: skyblue
+---
+> query: not found
+17733c17733
+< query: darkslategrey
+---
+> query: coral
+17745c17745
+< query: darkslategrey
+---
+> query: lightcoral
+17769c17769
+< query: violet
+---
+> query: paleturquoise
+17771c17771
+< delete: slategray
+---
+> delete: seagreen
+17775c17775
+< delete: black
+---
+> delete: deepskyblue
+17799c17799
+< delete: magenta
+---
+> delete: darkgreen
+17817c17817
+< query: grey
+---
+> query: royalblue
+17826c17826
+< query: lightgray
+---
+> query: not found
+17847c17847
+< delete: springgreen
+---
+> delete: tan
+17875,17876c17875,17876
+< delete: brown
+< delete: palegoldenrod
+---
+> delete: slategrey
+> delete: not found
+17880c17880
+< delete: azure
+---
+> delete: not found
+17885c17885
+< query: darkorange
+---
+> query: darkslateblue
+17909c17909
+< query: olivedrab
+---
+> query: greenyellow
+17928,17929c17928,17929
+< delete: mintcream
+< query: lawngreen
+---
+> delete: not found
+> query: purple
+17967c17967
+< delete: darkseagreen
+---
+> delete: fuchsia
+17975c17975
+< delete: darkturquoise
+---
+> delete: darkorchid
+18012c18012
+< delete: orchid
+---
+> delete: not found
+18042c18042
+< query: lightslategray
+---
+> query: not found
+18056c18056
+< delete: darkred
+---
+> delete: not found
+18058c18058
+< query: dodgerblue
+---
+> query: not found
+18062c18062
+< query: lemonchiffon
+---
+> query: not found
+18105c18105
+< query: snow
+---
+> query: aqua
+18108c18108
+< delete: gray
+---
+> delete: not found
+18123c18123
+< delete: mediumaquamarine
+---
+> delete: lightslategray
+18146c18146
+< query: black
+---
+> query: lightgrey
+18154c18154
+< query: steelblue
+---
+> query: not found
+18184c18184
+< delete: aqua
+---
+> delete: not found
+18215c18215
+< delete: darkred
+---
+> delete: mintcream
+18224c18224
+< delete: blueviolet
+---
+> delete: not found
+18227c18227
+< delete: brown
+---
+> delete: lightgreen
+18237c18237
+< query: forestgreen
+---
+> query: lightsteelblue
+18249c18249
+< query: aqua
+---
+> query: fuchsia
+18273c18273
+< query: darkslategray
+---
+> query: oldlace
+18289c18289
+< query: slateblue
+---
+> query: lightseagreen
+18293c18293
+< query: darkgreen
+---
+> query: aquamarine
+18297c18297
+< query: floralwhite
+---
+> query: lightcyan
+18328c18328
+< delete: ivory
+---
+> delete: not found
+18353c18353
+< query: saddlebrown
+---
+> query: darkslateblue
+18361c18361
+< query: lightskyblue
+---
+> query: lightgoldenrodyellow
+18373c18373
+< query: darkslategray
+---
+> query: darkred
+18403c18403
+< delete: coral
+---
+> delete: yellow
+18405c18405
+< query: gray
+---
+> query: honeydew
+18423c18423
+< delete: deeppink
+---
+> delete: steelblue
+18440c18440
+< delete: azure
+---
+> delete: not found
+18451c18451
+< delete: indigo
+---
+> delete: violet
+18455c18455
+< delete: chartreuse
+---
+> delete: teal
+18462,18463c18462,18463
+< query: yellowgreen
+< delete: olive
+---
+> query: not found
+> delete: plum
+18473c18473
+< query: peachpuff
+---
+> query: dimgrey
+18479c18479
+< delete: sienna
+---
+> delete: mintcream
+18498c18498
+< query: darkolivegreen
+---
+> query: not found
+18508c18508
+< delete: slategrey
+---
+> delete: not found
+18531c18531
+< delete: deeppink
+---
+> delete: darksalmon
+18544,18545c18544,18545
+< delete: gold
+< query: darkseagreen
+---
+> delete: dodgerblue
+> query: black
+18554c18554
+< query: salmon
+---
+> query: not found
+18558c18558
+< query: lightseagreen
+---
+> query: not found
+18569c18569
+< query: midnightblue
+---
+> query: blanchedalmond
+18585c18585
+< query: khaki
+---
+> query: blueviolet
+18596c18596
+< delete: lightgreen
+---
+> delete: not found
+18618c18618
+< query: lawngreen
+---
+> query: goldenrod
+18626c18626
+< query: lightskyblue
+---
+> query: darkslategray
+18638c18638
+< query: papayawhip
+---
+> query: not found
+18662c18662
+< query: brown
+---
+> query: not found
+18664c18664
+< delete: lawngreen
+---
+> delete: lime
+18694,18695c18694,18695
+< query: darkolivegreen
+< delete: purple
+---
+> query: not found
+> delete: lemonchiffon
+18714c18714
+< query: burlywood
+---
+> query: not found
+18722c18722
+< query: palegreen
+---
+> query: beige
+18732c18732
+< delete: coral
+---
+> delete: blanchedalmond
+18736c18736
+< delete: white
+---
+> delete: not found
+18738c18738
+< query: seagreen
+---
+> query: not found
+18759c18759
+< delete: darkgray
+---
+> delete: firebrick
+18763c18763
+< delete: deeppink
+---
+> delete: indigo
+18775,18776c18775,18776
+< delete: darkgray
+< delete: wheat
+---
+> delete: palevioletred
+> delete: not found
+18803c18803
+< delete: darkgray
+---
+> delete: aqua
+18809c18809
+< query: oldlace
+---
+> query: lightskyblue
+18817c18817
+< query: gray
+---
+> query: honeydew
+18826c18826
+< query: oldlace
+---
+> query: powderblue
+18831c18831
+< delete: orange
+---
+> delete: blueviolet
+18873c18873
+< query: darkgreen
+---
+> query: darkblue
+18888c18888
+< delete: slateblue
+---
+> delete: saddlebrown
+18899c18899
+< delete: fuchsia
+---
+> delete: orchid
+18901c18901
+< query: darkslategrey
+---
+> query: coral
+18916c18916
+< delete: beige
+---
+> delete: not found
+18963c18963
+< delete: darkgrey
+---
+> delete: bisque
+18989c18989
+< query: turquoise
+---
+> query: darkolivegreen
+19028c19028
+< delete: royalblue
+---
+> delete: cornsilk
+19079c19079
+< delete: chartreuse
+---
+> delete: darkred
+19091c19091
+< delete: oldlace
+---
+> delete: lightskyblue
+19093c19093
+< query: honeydew
+---
+> query: lightpink
+19101c19101
+< query: lightseagreen
+---
+> query: blue
+19110c19110
+< query: lightskyblue
+---
+> query: not found
+19122c19122
+< query: peru
+---
+> query: not found
+19126c19126
+< query: silver
+---
+> query: mediumslateblue
+19129c19129
+< query: white
+---
+> query: mediumvioletred
+19141c19141
+< query: mediumspringgreen
+---
+> query: salmon
+19151c19151
+< delete: thistle
+---
+> delete: limegreen
+19154c19154
+< query: lightsalmon
+---
+> query: yellow
+19189c19189
+< query: yellowgreen
+---
+> query: darkorchid
+19207c19207
+< delete: wheat
+---
+> delete: darkgreen
+19210c19210
+< query: greenyellow
+---
+> query: not found
+19219c19219
+< delete: navajowhite
+---
+> delete: teal
+19275,19276c19275,19276
+< delete: crimson
+< delete: pink
+---
+> delete: lightslategray
+> delete: not found
+19283c19283
+< delete: darksalmon
+---
+> delete: tan
+19298,19300c19298,19300
+< query: khaki
+< delete: powderblue
+< delete: khaki
+---
+> query: not found
+> delete: lightgray
+> delete: not found
+19302c19302
+< query: chocolate
+---
+> query: dimgray
+19307c19307
+< delete: tan
+---
+> delete: lightslategray
+19309c19309
+< query: darkgrey
+---
+> query: slategrey
+19315c19315
+< delete: wheat
+---
+> delete: lightseagreen
+19318c19318
+< query: khaki
+---
+> query: blueviolet
+19327c19327
+< delete: mediumaquamarine
+---
+> delete: tomato
+19337c19337
+< query: blue
+---
+> query: seagreen
+19339c19339
+< delete: mediumspringgreen
+---
+> delete: salmon
+19364c19364
+< delete: saddlebrown
+---
+> delete: lightcyan
+19376,19377c19376,19377
+< delete: olivedrab
+< query: lavender
+---
+> delete: black
+> query: darkorchid
+19401c19401
+< query: forestgreen
+---
+> query: lightsteelblue
+19431c19431
+< delete: peachpuff
+---
+> delete: dimgrey
+19449c19449
+< query: snow
+---
+> query: honeydew
+19458c19458
+< query: lawngreen
+---
+> query: turquoise
+19481c19481
+< query: slategrey
+---
+> query: lawngreen
+19488c19488
+< delete: antiquewhite
+---
+> delete: not found
+19496c19496
+< delete: peru
+---
+> delete: not found
+19516c19516
+< delete: peachpuff
+---
+> delete: not found
+19527c19527
+< delete: slategrey
+---
+> delete: orangered
+19530c19530
+< query: chocolate
+---
+> query: not found
+19558c19558
+< query: bisque
+---
+> query: not found
+19587c19587
+< delete: chocolate
+---
+> delete: magenta
+19596c19596
+< delete: peachpuff
+---
+> delete: not found
+19598c19598
+< query: violet
+---
+> query: not found
+19617c19617
+< query: linen
+---
+> query: lightseagreen
+19622c19622
+< query: skyblue
+---
+> query: lightgoldenrodyellow
+19630c19630
+< query: oldlace
+---
+> query: powderblue
+19637c19637
+< query: firebrick
+---
+> query: saddlebrown
+19641c19641
+< query: tan
+---
+> query: darkslategray
+19644c19644
+< delete: aliceblue
+---
+> delete: not found
+19674c19674
+< query: slateblue
+---
+> query: not found
+19676c19676
+< delete: tan
+---
+> delete: not found
+19679c19679
+< delete: lime
+---
+> delete: brown
+19684c19684
+< delete: lemonchiffon
+---
+> delete: not found
+19709c19709
+< query: maroon
+---
+> query: darkkhaki
+19714c19714
+< query: lightslategray
+---
+> query: not found
+19718c19718
+< query: cornsilk
+---
+> query: not found
+19724c19724
+< delete: lightslategrey
+---
+> delete: not found
+19732c19732
+< delete: darkkhaki
+---
+> delete: not found
+19736,19737c19736,19737
+< delete: lightslategray
+< query: magenta
+---
+> delete: not found
+> query: palegreen
+19752c19752
+< delete: crimson
+---
+> delete: darkturquoise
+19789c19789
+< query: teal
+---
+> query: olivedrab
+19794c19794
+< query: seagreen
+---
+> query: not found
+19832c19832
+< delete: blueviolet
+---
+> delete: not found
+19859c19859
+< delete: lightsalmon
+---
+> delete: darkmagenta
+19873c19873
+< query: darkblue
+---
+> query: plum
+19875,19876c19875,19876
+< delete: gray
+< delete: navajowhite
+---
+> delete: honeydew
+> delete: not found
+19892c19892
+< delete: darkolivegreen
+---
+> delete: not found
+19895c19895
+< delete: lightpink
+---
+> delete: lightslategrey
+19902c19902
+< query: darkolivegreen
+---
+> query: not found
+19907c19907
+< delete: silver
+---
+> delete: darksalmon
+19911c19911
+< delete: mediumturquoise
+---
+> delete: oldlace
+19915c19915
+< delete: gray
+---
+> delete: navy
+19920c19920
+< delete: floralwhite
+---
+> delete: not found
+19938c19938
+< query: mediumpurple
+---
+> query: darkkhaki
+19949c19949
+< query: blue
+---
+> query: seagreen
+19954c19954
+< query: honeydew
+---
+> query: sienna
+19960c19960
+< delete: darkorchid
+---
+> delete: not found
+19979c19979
+< delete: silver
+---
+> delete: orange
